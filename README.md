@@ -46,7 +46,8 @@ Data Specialist focused on the **Python, SQL, and BI** ecosystem, with solid exp
 
 **BI & Visualization** Power BI, Qlik Sense, Looker Studio
 
-**Key Competencies** * Data Governance
+**Key Competencies** 
+* Data Governance
 * Data Lake Architecture
 * ETL Pipelines
 * Descriptive/Predictive Analysis
